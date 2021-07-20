@@ -1,4 +1,4 @@
-### 677 Lab 1
+
 
 ### Follow the following instructions to run the code:
 
